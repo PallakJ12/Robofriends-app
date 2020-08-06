@@ -1,6 +1,6 @@
 # Robofriends-app
 
-#React To run the project:
+React To run the project:
 
 1-Clone this repo
 
